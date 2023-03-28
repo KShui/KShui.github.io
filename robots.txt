@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://KShui.github.io/KShui.github.io//sitemap.xml
+Sitemap: https://KShui.github.io/sitemap.xml
