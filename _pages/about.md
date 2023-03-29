@@ -23,8 +23,10 @@ Before joining ETH, I held both master's and bachelor's degree in Computer Scien
         <ul class="ul-interests mb-0">
           <li>Probabilistic Inference</li>
           <li>Deep Representation Learning</li>
+          <li>Reinforcement Learning</li>
+          <li>Natural Language Processing</li>
           <li>Machine Learning in Finance</li>
-          <li>Mathematical Finance</li>
+          <li>Quantitative Finance</li>
           <li>High Frequency Trading</li>
           <li>Data Mining & Management</li>
         </ul>
