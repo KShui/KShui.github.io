@@ -17,15 +17,200 @@ I'm interested in topics such as Quantitative Finance, High Frequency Trading, M
 
 Before joining ETH, I held both master's and bachelor's degree in Computer Science from the [University of Munich (LMU)](https://www.lmu.de/en/index.html) with strong focus on machine learning. I've gathered professional experience in quantitative disciplines with [Citigroup](https://de.citifirst.com/en-de/), [Société Générale](https://wholesale.banking.societegenerale.com/en/solutions/markets/equities/), [Deloitte](https://www2.deloitte.com/de/de/pages/finance/topics/center-for-process-bionics.html) and [Telefonica Germany](https://www.telefonica.de/home-corporate-en.html).
 
-#### Experience
+<div class="row">
+  <div class="col-md-5">
+      <div class="subheading"><h4 id="-interests-"><strong>Interests</strong></h4></div>
+        <ul class="ul-interests mb-0">
+          <li>Probabilistic Inference</li>
+          <li>Deep Representation Learning</li>
+          <li>Machine Learning in Finance</li>
+          <li>Mathematical Finance</li>
+          <li>High Frequency Trading</li>
+          <li>Data Mining & Management</li>
+        </ul>
+      </div>
+      
+  <div class="col-md-7">
+    <div class="section-subheading"><h4 id="-education-"><strong>Education</strong></h4></div>
+      <ul class="ul-edu fa-ul mb-0">
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course"><strong>MSc in Statistics</strong><br>
+                <a href="https://ethz.ch/en.html">ETH Zürich</a>, Switzerland</p>
+            </div>
+          </li>
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course"><strong>MSc in Computer Science</strong>, 2023<br>
+                <a href="https://www.lmu.de/en/index.html">Ludwig-Maximilians Universität München</a>, Germany</p>
+            </div>
+          </li>
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course"><strong>BSc in Computer Science plus Statistics</strong>, 2020<br>
+                <a href="https://www.lmu.de/en/index.html">Ludwig-Maximilians Universität München</a>, Germany</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
 
-* 05/22 - 09/22: &nbsp; Derivative Structuring Intern at [Citigroup](https://de.citifirst.com/en-de/), Frankfurt, Germany
-* 03/21 - 07/21: &nbsp; Quantitative Analyst Intern at [Société Générale](https://wholesale.banking.societegenerale.com/en/solutions/markets/equities/), Frankfurt, Germany
-* 11/20 - 02/21: &nbsp; Student Worker for Process Mining at [Deloitte](https://www2.deloitte.com/de/de/pages/finance/topics/center-for-process-bionics.html), Munich, Germany
-* 10/19 - 02/20: &nbsp; Student Worker for Business Analytics & AI at [Telefonica](https://www.telefonica.de/home-corporate-en.html), Munich, Germany
 
-#### Education
+<div class="subheading"><h4 id="-Experience-"><strong>Experience</strong></h4></div>
+  
+<div class="col-12 col-lg-8">
 
-* 2021 - 2023: &nbsp; MSc in Statistics, [ETH Zürich](https://ethz.ch/en.html), Zurich, Switzerland
-* 2020 - 2023: &nbsp; MSc Computer Science, [Ludwig-Maximilians Universität München](https://www.lmu.de/en/index.html), Munich, Germany
-* 2017 - 2020: &nbsp; BSc Computer Science, [Ludwig-Maximilians Universität München](https://www.lmu.de/en/index.html), Munich, Germany
+  <div class="row experience">
+    
+  <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+  <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+
+  <div class="section-subheading card-title exp-title my-0">Equity Derivatives Structuring Intern</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://de.citifirst.com/en-de/" target="_blank" rel="noopener">Citigroup Global Markets Europe</a></div>
+              <div class="text-muted exp-meta">
+                May 22 – Sep 22
+                          
+  <span class="middot-divider"></span>
+  <span class="text-muted">Frankfurt, Germany</span>
+                
+  </div>
+  <div class="card-text">Public Listed Products Desk</div>
+  </div>
+  </div>
+  </div>
+  </div>
+  
+  
+  
+  <div class="row experience">
+    
+  <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+  <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+
+  <div class="section-subheading card-title exp-title my-0">Quantitative Analyst Intern</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://wholesale.banking.societegenerale.com/en/solutions/markets/equities/" target="_blank" rel="noopener">Societe Generale Corporate & Investment Banking</a></div>
+              <div class="text-muted exp-meta">
+                Mar 21 – Jul 21
+                
+                
+  <span class="middot-divider"></span>
+  <span class="text-muted">Frankfurt, Germany</span>
+                
+  </div>
+  <div class="card-text">Delta One Products Trading Desk</div>
+          
+  </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+  <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+  <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+
+  <div class="section-subheading card-title exp-title my-0">Student Worker for Data & Process Mining</div>
+        <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www2.deloitte.com/de/de/pages/finance/topics/center-for-process-bionics.html" target="_blank" rel="noopener">Deloitte Center for Process Bionics</a></div>
+        <div class="text-muted exp-meta">
+        Nov 20 – Feb 21
+                
+                
+  <span class="middot-divider"></span>
+  <span class="text-muted">Munich, Germany</span>
+                
+  </div>
+  <div class="card-text">Financial Advisory Analytics</div>
+          
+  </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+  <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+  <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+
+  <div class="section-subheading card-title exp-title my-0">Student Worker for Business Analytics & AI Research</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.telefonica.de/home-corporate-en.html" target="_blank" rel="noopener">Telefonica Germany</a></div>
+              <div class="text-muted exp-meta">
+              Oct 19 – Feb 20
+                
+                
+<span class="middot-divider"></span>
+ <span class="text-muted">Munich, Germany</span>
+                
+  </div>
+
+          
+  </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
