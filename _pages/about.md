@@ -39,21 +39,21 @@ Before joining ETH, I held both master's and bachelor's degree in Computer Scien
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course"><strong>MSc in Statistics</strong><br>
-                <a href="https://ethz.ch/en.html">ETH Zürich</a>, Switzerland</p>
+                <a href="https://ethz.ch/en.html">ETH Zurich - Swiss Federal Institute of Technology</a>, Switzerland</p>
             </div>
           </li>
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course"><strong>MSc in Computer Science</strong>, 2023<br>
-                <a href="https://www.lmu.de/en/index.html">Ludwig-Maximilians Universität München</a>, Germany</p>
+              <p class="course"><strong>MSc in Computer Science</strong>, 2024<br>
+                <a href="https://www.lmu.de/en/index.html">Ludwig Maximilian University of Munich </a>, Germany</p>
             </div>
           </li>
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course"><strong>BSc in Computer Science plus Statistics</strong>, 2020<br>
-                <a href="https://www.lmu.de/en/index.html">Ludwig-Maximilians Universität München</a>, Germany</p>
+                <a href="https://www.lmu.de/en/index.html">Ludwig Maximilian University of Munich</a>, Germany</p>
             </div>
           </li>
         </ul>
@@ -64,6 +64,43 @@ Before joining ETH, I held both master's and bachelor's degree in Computer Scien
 <div class="subheading"><h4 id="-Experience-"><strong>Experience</strong></h4></div>
   
 <div class="col-12 col-lg-8">
+
+  <div class="row experience">
+    
+  <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+  <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+
+  <div class="section-subheading card-title exp-title my-0">Quantitative Research Intern</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://cib.bnpparibas/" target="_blank" rel="noopener">BNP Paribas Corporate & Institutional Banking</a></div>
+              <div class="text-muted exp-meta">
+                Apr 24 – Oct 24
+                
+                
+  <span class="middot-divider"></span>
+  <span class="text-muted">London, United Kingdom</span>
+                
+  </div>
+  <div class="card-text">eFX Spot Algorithmic Trading</div>
+          
+  </div>
+      </div>
+    </div>
+  </div>
 
   <div class="row experience">
     
@@ -85,8 +122,8 @@ Before joining ETH, I held both master's and bachelor's degree in Computer Scien
       <div class="card">
         <div class="card-body">
 
-  <div class="section-subheading card-title exp-title my-0">Equity Derivatives Structuring Intern</div>
-              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://de.citifirst.com/en-de/" target="_blank" rel="noopener">Citigroup Global Markets Europe</a></div>
+  <div class="section-subheading card-title exp-title my-0">Structuring Intern</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://de.citifirst.com/en-de/" target="_blank" rel="noopener">Citigroup</a></div>
               <div class="text-muted exp-meta">
                 May 22 – Sep 22
                           
@@ -94,7 +131,7 @@ Before joining ETH, I held both master's and bachelor's degree in Computer Scien
   <span class="text-muted">Frankfurt, Germany</span>
                 
   </div>
-  <div class="card-text">Public Listed Products Desk</div>
+  <div class="card-text">Warrants & Investment Certificates</div>
   </div>
   </div>
   </div>
