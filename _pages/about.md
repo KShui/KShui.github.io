@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I'm interested in topics such as Quantitative Finance, High Frequency Trading, Machine Learning, Natural Language Processing and general Data Science techniques. I'm currently master's student in Statistics at [ETH Zurich - Swiss Federal Institute of Technology](https://ethz.ch/en.html).
 
-Before joining ETH, I held both master's and bachelor's degree in Computer Science from the [University of Munich (LMU)](https://www.lmu.de/en/index.html) with strong focus on machine learning. I've gathered professional experience in quantitative disciplines with [Citigroup](https://de.citifirst.com/en-de/), [Société Générale](https://wholesale.banking.societegenerale.com/en/solutions/markets/equities/), [Deloitte](https://www2.deloitte.com/de/de/pages/finance/topics/center-for-process-bionics.html) and [Telefonica Germany](https://www.telefonica.de/home-corporate-en.html).
+Before joining ETH, I held both master's and bachelor's degree in Computer Science from the [University of Munich (LMU)](https://www.lmu.de/en/index.html) with strong focus on machine learning. I've gathered professional experience in quantitative disciplines with BNP Paribas, [Citigroup](https://de.citifirst.com/en-de/), [Société Générale](https://wholesale.banking.societegenerale.com/en/solutions/markets/equities/), [Deloitte](https://www2.deloitte.com/de/de/pages/finance/topics/center-for-process-bionics.html) and [Telefonica Germany](https://www.telefonica.de/home-corporate-en.html).
 
 <div class="row">
   <div class="col-md-5">
@@ -39,7 +39,7 @@ Before joining ETH, I held both master's and bachelor's degree in Computer Scien
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course"><strong>MSc in Statistics</strong><br>
-                <a href="https://ethz.ch/en.html">ETH Zurich - Swiss Federal Institute of Technology</a>, Switzerland</p>
+                <a href="https://ethz.ch/en.html">ETH Zurich</a>, Switzerland</p>
             </div>
           </li>
           <li>
