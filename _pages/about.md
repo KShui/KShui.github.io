@@ -45,7 +45,7 @@ Before joining ETH, I held both master's and bachelor's degree in Computer Scien
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course"><strong>MSc in Computer Science</strong>, 2024<br>
+              <p class="course"><strong>MSc in Computer Science</strong>, 2022<br>
                 <a href="https://www.lmu.de/en/index.html">Ludwig Maximilian University of Munich </a>, Germany</p>
             </div>
           </li>
