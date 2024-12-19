@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I'm interested in topics such as Quantitative Finance, High Frequency Trading, Machine Learning, Natural Language Processing and general Data Science techniques. I'm currently master's student in Statistics at [ETH Zurich - Swiss Federal Institute of Technology](https://ethz.ch/en.html).
 
-Before joining ETH, I held both master's and bachelor's degree in Computer Science from the [University of Munich (LMU)](https://www.lmu.de/en/index.html) with strong focus on machine learning. I've gathered professional experience in quantitative disciplines with BNP Paribas, [Citigroup](https://de.citifirst.com/en-de/), [Société Générale](https://wholesale.banking.societegenerale.com/en/solutions/markets/equities/), [Deloitte](https://www2.deloitte.com/de/de/pages/finance/topics/center-for-process-bionics.html) and [Telefonica Germany](https://www.telefonica.de/home-corporate-en.html).
+Before joining ETH, I held both master's and bachelor's degree in Computer Science from the [University of Munich (LMU)](https://www.lmu.de/en/index.html) with strong focus on machine learning. I've gathered professional experience in quantitative disciplines with [Qube Research & Technologies](https://www.qube-rt.com/), [BNP Paribas](https://cib.bnpparibas/), [Citigroup](https://de.citifirst.com/en-de/), [Société Générale](https://wholesale.banking.societegenerale.com/en/solutions/markets/equities/), [Deloitte](https://www2.deloitte.com/de/de/pages/finance/topics/center-for-process-bionics.html) and [Telefonica Germany](https://www.telefonica.de/home-corporate-en.html).
 
 <div class="row">
   <div class="col-md-5">
@@ -88,7 +88,7 @@ Before joining ETH, I held both master's and bachelor's degree in Computer Scien
   <div class="section-subheading card-title exp-title my-0">Quantitative Research Intern</div>
               <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.qube-rt.com/" target="_blank" rel="noopener">Qube Research & Technologies (QRT) </a></div>
               <div class="text-muted exp-meta">
-                April 25 – 
+                April 25 – NOW
                           
   <span class="middot-divider"></span>
   <span class="text-muted">Zurich, Switzerland</span>
@@ -158,7 +158,7 @@ Before joining ETH, I held both master's and bachelor's degree in Computer Scien
         <div class="card-body">
 
   <div class="section-subheading card-title exp-title my-0">Structuring Intern</div>
-              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://de.citifirst.com/en-de/" target="_blank" rel="noopener">BNP Citigroup</a></div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://de.citifirst.com/en-de/" target="_blank" rel="noopener">Citigroup</a></div>
               <div class="text-muted exp-meta">
                 May 22 – Sep 22
                 
